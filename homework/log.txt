@@ -1,0 +1,4 @@
+Iteration 1: [3, 5, 4, 2, 8]
+Iteration 2: [3, 4, 2, 5, 8]
+Iteration 3: [3, 2, 4, 5, 8]
+Iteration 4: [2, 3, 4, 5, 8]
